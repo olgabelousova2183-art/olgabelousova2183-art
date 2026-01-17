@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**olgabelousova2183-art/olgabelousova2183-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Ольга
 
-Here are some ideas to get you started:
+Маркетолог и **разработчик** ботов с фокусом на LLM-интеграции и автоматизации рабочих процессов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+
+- Telegram-боты (aiogram/pyTelegramBotAPI)  
+- Интеграции с LLM (Yandex Cloud, OpenAI, Cloud.ru)  
+- Маркетинговая аналитика и дашборды  
+- Python для автоматизации и анализа данных  
+
+## Чем могу быть полезна
+
+- Настройка и разработка ботов под задачи маркетинга  
+- Встраивание LLM в воронки (генерация текстов, анализ данных)  
+- Автоматизация отчётности и рекламной аналитики  
+
+## Контакты
+
+- Email: olga_olga@bk.ru
+- Telegram: @belousova_o
+
+
+## Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
